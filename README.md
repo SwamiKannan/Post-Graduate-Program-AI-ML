@@ -1,4 +1,4 @@
-# Post Graduate Program in Artificial Intelligence and Machine Learning(Greatlearning.in X University of Texas, Austin)
+# Post Graduate Program in Artificial Intelligence and Machine Learning (Greatlearning.in X University of Texas, Austin)
  
 <p align="center">
   <img src="https://github.com/SwamiKannan/PG-Program-AI-ML/blob/main/Cover.PNG" />
